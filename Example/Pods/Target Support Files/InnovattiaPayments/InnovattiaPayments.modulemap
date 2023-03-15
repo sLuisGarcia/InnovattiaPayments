@@ -1,6 +1,0 @@
-framework module InnovattiaPayments {
-  umbrella header "InnovattiaPayments-umbrella.h"
-
-  export *
-  module * { export * }
-}

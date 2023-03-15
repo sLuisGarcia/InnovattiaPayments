@@ -1,6 +1,0 @@
-framework module Pods_InnovattiaPayments_Tests {
-  umbrella header "Pods-InnovattiaPayments_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
